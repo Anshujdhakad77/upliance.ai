@@ -11,7 +11,7 @@ This application includes a counter, a user data form, and a rich text editor. I
 ## Setup
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone <https://github.com/Anshujdhakad77/upliance.ai>
     ```
 2. Navigate to the project directory:
     ```sh
@@ -25,9 +25,9 @@ This application includes a counter, a user data form, and a rich text editor. I
 ## Usage
 1. Start the development server:
     ```sh
-    npm start
+    npm run dev
     ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:5173`.
 
 ## Components
 ### Counter
